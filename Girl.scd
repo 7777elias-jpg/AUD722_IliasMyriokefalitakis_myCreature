@@ -131,7 +131,7 @@ SynthDef(\mixTest2, { |out=0, buf=0, rate=1, modFreq=400, amp=0.0, ampLag=0.1,
 
 // // χρησιμοποιείται μόνο για πλήρη καθαρισμό του server
 
-s.freeAll;
+
 
 
 
